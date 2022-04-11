@@ -1,2 +1,3 @@
 # next-js-learning-app
-next.js学習用　https://nextjs.org/
+https://nextjs.org/  
+next.js学習用　
